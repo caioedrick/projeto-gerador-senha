@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.png" width="100px" />
+  <img src="./assets/logo.png" width="1000px" />
 </p>
 
 ## 💻 Projeto
